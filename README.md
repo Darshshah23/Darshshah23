@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-## 👋 Hi, I'm Darsh, a Robotics and Autonomous Systems Engineer with specializing in Mechanical engineering. I have experience in designing, building, and programming robots for various applications. 
+
 
 I’m interested in Robotics, motion planning, control systems, and computer vision.
 
@@ -18,3 +18,5 @@ I’m interested in Robotics, motion planning, control systems, and computer vis
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I'm Darsh, a Robotics and Autonomous Systems Engineer with specializing in Mechanical engineering. I have experience in designing, building, and programming robots for various applications. 
