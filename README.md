@@ -21,6 +21,8 @@ I’m interested in Robotics, motion planning, control systems, and computer vis
 
 👋 Hi, I'm Darsh, a Robotics and Autonomous Systems Engineer with specializing in Mechanical engineering. I have experience in designing, building, and programming robots for various applications. 
 
+🔭 I’m interested in Robotics, motion planning, control systems, and computer vision.
+
 📫 you can reach me www.linkedin.com/in/darsh23
 
 🌐 website https://dshah584.wixsite.com/darsh
